@@ -1,0 +1,31 @@
+Package: com.example.package
+Name: ''
+Version: #
+Architecture: iphone-os-arm or iphoneos-arm64 (1st)
+Description: ''
+Maintainer: jaccobb.io
+Author: Jaccobb
+Section: Tweaks, Themes, Etc
+Depends: Dependencies (by package id)
+Filename: debs/filename.deb
+Size: Size in bytes
+MD5sum: \
+SHA1:    | Use Website to find these file hashes. (Must be lowercase)
+SHA256: /
+
+Package: com.jaccobb.package
+Name: 
+Version: 1.0.0
+Architecture: iphone-os-arm
+Description: Tweak by Jaccobb.
+Maintainer: Jaccobb @ jaccobb.io
+Author: Jaccobb
+Section: 
+Depends: 
+Filename: debs/#.deb
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+
+Help: https://www.reddit.com/r/jailbreak/comments/90gpli/tutorial_create_a_cydia_repository_using_github/
