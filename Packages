@@ -1,13 +1,13 @@
-Package: com.jaccobb.juliogravity
+Package: com.julioverne.gravity_0.7
 Name: Julio's Gravity
-Version: 1.0.0
+Version: 0.7
 Architecture: iphone-os-arm
 Description: Tweak by Jaccobb.
 Maintainer: Jaccobb @ jaccobb.io
 Author: Jaccobb
 Section: Tweaks
 Depends: 
-Filename: debs/#.deb
+Filename: debs/com.julioverne.gravity_0.7.deb
 Size: 223624
 MD5sum: 56f8b813c82708ae3774e452ed47ca5a
 SHA1: 60ec173936d15fb5d10a1b8c2bb3f133f76260e5
