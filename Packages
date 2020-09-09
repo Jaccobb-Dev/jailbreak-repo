@@ -12,3 +12,18 @@ Size: 223624
 MD5sum: 56f8b813c82708ae3774e452ed47ca5a
 SHA1: 60ec173936d15fb5d10a1b8c2bb3f133f76260e5
 SHA256: 74a1249f9540c33be81f869ea762c96e4f2a144a1ae848bbda00a5055626eef2
+
+Package: com.jaccobb.image.laguages_2020
+Name: Languages Diagram
+Version: 0.0.0
+Architecture: iphone-os-arm
+Description: Languages Image.
+Maintainer: Jaccobb @ jaccobb.io
+Author: Jaccobb
+Section: Images
+Depends: 
+Filename: images/languages_2020.jpg
+Size: 1316449
+MD5sum: 897b2c045f24fdec7d9bf8703bedaf2b
+SHA1: 50c86076ed2a5812da567f5df7c1d941f74d297a
+SHA256: 1d64b3e0bccaa6f3cf2e5f464bfc052c51e145ce76cf3921ca5886e9b9607e51
